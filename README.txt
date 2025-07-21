@@ -1,0 +1,1 @@
+I used a bit more of what I learned about shadows and using gif images in a website. This was a fun project to do because of Kool-Aid Man.
