@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+    background-image: url("images/prevail.gif");
+    font-family: 'Kool Beans', sans-serif;
+
+}
+
+.hero {
+    font-size: 7em; /* Makes the h1 text 3 times the default size */
+    font-weight: bold; /* Optional: makes it bolder */
+    color: goldenrod;
+    text-shadow: 0 -5px 5px white;
+}
+.logo {
+    width: 100px;
+}
+.meat {
+    display: flex;
+    justify-content: space-around;
+}
+
+.intro{
+    text-align: center;
+    background-image: url("images/welcome.gif");
+    width: 60%;
+    height: 200px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    padding-top: 20px;
+}
+
+#main-one {
+    background-image: url("images/falling.gif");
+    width: 30%;
+    height: 220px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin: 20px;
+    color: white;
+    text-shadow: -10px 8px 3px rgba(0, 0, 0, 0.5);
+}
+
+#main-two {
+    background-image: url("images/surprise.gif");
+    width: 22%;
+    background-color: #e0e0e0;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px;
+    color: white;
+    text-shadow: 10px 8px 3px rgba(0, 0, 0, 0.5);
+
+}
+
+.conclusion {
+    text-align: center;
+    margin: auto;
+    background-image: url("images/shop.gif");
+    width: 70%;
+    height: 470px;
+    border-radius: 8px;
+    background-size: cover;
+    padding-top: 20px;
+    color: goldenrod;
+    font-size: 3em; /* Makes the h1 text 3 times the default size */
+    text-shadow: 0 5px 5px white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end; /* Moves content to the bottom */
+    align-items: center;
+    height: 470px;
+    
+}
