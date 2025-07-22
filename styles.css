@@ -2,7 +2,9 @@ body{
     text-align: center;
     background-image: url("images/prevail.gif");
     font-family: 'Kool Beans', sans-serif;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .hero {
@@ -13,6 +15,7 @@ body{
 }
 .logo {
     width: 100px;
+    
 }
 .meat {
     display: flex;
